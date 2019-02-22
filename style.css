@@ -56,6 +56,8 @@ div.day-box.PREP, div.day-box.CURRENT, div.day-box.COMPLETED{
   width: 50%;
   margin-left: 25%;
   border-radius: 25px;
+  width: 800px;
+  height: 800px;
 }
 
 .username {
