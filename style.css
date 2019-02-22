@@ -49,7 +49,7 @@ div.day-box.PREP, div.day-box.CURRENT, div.day-box.COMPLETED{
   border-style: groove;
   border-width: thick;
   text-align: center;
-  shape-image-threshold: auto;
+  text-align-last: center;
   font-size: 45px;
   margin-top: 50px;
   border-width: 15px;
