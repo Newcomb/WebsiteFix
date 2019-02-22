@@ -48,7 +48,8 @@ div.header > div.partners > div.person_info{
 div.day-box.PREP, div.day-box.CURRENT, div.day-box.COMPLETED{
   border-style: groove;
   border-width: thick;
-  text-align: auto;
+  text-align: center;
+  align-items: center;
   font-size: 45px;
   margin-top: 50px;
   border-width: 15px;
