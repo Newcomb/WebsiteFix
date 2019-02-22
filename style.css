@@ -54,10 +54,17 @@ div.day-box.PREP, div.day-box.CURRENT, div.day-box.COMPLETED{
   border-width: 15px;
   color: white;
   width: 50%;
-  margin-left: 12.5%;
+  margin-left: 20%;
   border-radius: 50%;
   width: 800px;
   height: 800px;
+  scroll-snap-type: 1 mandatory;
+  overflow-x: scroll;
+  display: flex;
+  }
+.day-box.Prep{
+  text-align: middle;
+
 }
 
 .username {
