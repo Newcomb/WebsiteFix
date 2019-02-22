@@ -1,0 +1,156 @@
+body{ /* Different background */
+  background-color: black;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: 100% 100%;
+}
+
+h1{ /* Move to center */
+  text-align: center;
+}
+
+p{
+  text-transform: full-width;
+  color: white;
+  border-width: medium;
+  border-color: brown;
+}
+
+div.header{
+  background-color: darkGray;
+  border-radius: 25px;
+  border-style: groove;
+  border-width: thick
+}
+
+div.header > div.partners > div.person_info{
+  margin-top: 7.5%;
+  margin-left: 0.5%;
+}
+
+div.nav /* Maybe different background? */
+{
+  font-size: 40px;
+  margin-left: 80%;
+}
+ /* Make the current and future task glow? */
+div.person_info{
+  float:left;
+  width: 200px;
+  height: 200px;
+}
+
+div.header > div.partners > div.person_info{
+  margin-top: 15
+}
+
+div.day-box.PREP, div.day-box.CURRENT, div.day-box.COMPLETED{
+  border-style: groove;
+  border-width: thick;
+  text-align: center;
+  font-size: 45px;
+  margin-top: 50px;
+  border-width: 15px;
+  color: white;
+  width: 50%;
+  margin-left: 25%;
+  border-radius: 25px;
+}
+
+.username {
+  font-size: 20px;
+}
+
+
+div.day-box.PREP{
+  border-color: green;
+  background-color: darkGreen;
+}
+
+div.day-box.CURRENT{
+  border-color: red;
+  background-color: darkBlue;
+}
+
+div.day-box.COMPLETED{
+  border-color: black;
+  opacity: 0.75;
+  background-color: #3d3a3a;
+}
+/* The Divs due tomorrow are completely opaque and stand out.
+   The Divs that have been completed are translucent and use
+   brown and blue dark colors to seem irrelevant.
+   The Preps in class  are grassy green and have sandy
+   texture with them. Sort of nature-like.
+*/
+
+div.assignment_prompt
+{
+  border-style: groove;
+  border-width: thick;
+  text-align: center;
+  font-size: 45px;
+  margin-top: 50px;
+  border-width: 15px;
+  color: white;
+  width: 75%;
+  margin-left: 12.5%;
+  border-radius: 25px;
+  border-color: green;
+  background-color: #1ca05e;
+}
+
+.notes{
+  border-top: 5px solid black;
+
+}
+
+.prep-box{
+  border-bottom: 5px solid black;
+
+}
+
+.reading-box{
+  border-bottom: 5px solid black;
+}
+
+.lab-box{
+  border-top:5px solid black
+
+}
+.account_form{
+  border-radius: 25px;
+   border-style: groove;
+  border-width: thick;
+  text-align: center;
+  background-color: white;
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+  width: 75%;
+  margin-left: 12.5%;
+   border-color: green;
+  background-color: #1ca05e;
+
+}
+
+.account_form input{
+  margin-bottom: 20px
+}
+
+.person_image{
+  width: 100px;
+  height: 100px;
+}
+
+
+tbody{
+  text-align: center;
+
+}
+td, tr{
+ font-size: 30px;
+ background-color: blueviolet;
+ border: 5px solid black;
+}
