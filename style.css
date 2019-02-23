@@ -53,7 +53,7 @@ div.day-box.PREP, div.day-box.CURRENT, div.day-box.COMPLETED{
    margin-left: 25%;
    background-repeat: no-repeat;
    background-position: center;
-   background-size: auto;
+   background-size: contain;
    }
   }
 .day-box.Prep{
