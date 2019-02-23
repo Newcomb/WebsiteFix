@@ -159,3 +159,13 @@ td, tr{
  background-color: blueviolet;
  border: 5px solid black;
 }
+
+}
+.assignment-label{
+  margin-top: 50px;
+}
+.day{
+  margin-top: 20px;
+  margin-left: 70%;
+  width: unset;
+}
