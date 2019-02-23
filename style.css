@@ -48,7 +48,7 @@ div.header > div.partners > div.person_info{
 div.day-box.PREP, div.day-box.CURRENT, div.day-box.COMPLETED{
   text-align: center;
    background-image: url("https://newcomb.github.io/WebsiteFix/images/parchment.jpg");
-   font-size: 45px;
+   font-size: 30px;
    width: 50%;
    margin-left: 25%;
    background-repeat: no-repeat;
