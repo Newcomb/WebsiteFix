@@ -47,13 +47,16 @@ div.header > div.partners > div.person_info{
 
 div.day-box.PREP, div.day-box.CURRENT, div.day-box.COMPLETED{
   text-align: center;
-   background-image: url("https://newcomb.github.io/WebsiteFix/images/parchment.jpg");
-   font-size: 30px;
-   width: 50%;
-   margin-left: 25%;
-   background-repeat: no-repeat;
-   background-position: center;
-   background-size: contain;
+     background-image: url("https://newcomb.github.io/WebsiteFix/images/parchment.jpg");
+     font-size: 25px;
+     margin-left: 25%;
+     width: 600px;
+     height: 600px;
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: cover;
+     overflow-y: scroll;
+     margin-top: 50px
    }
   }
 .day-box.Prep{
