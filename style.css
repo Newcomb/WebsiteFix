@@ -20,7 +20,7 @@ p{
 div.header{
   background-image: url("https://newcomb.github.io/WebsiteFix/images/bookShelf.jpg");
   border-radius: 25px;
-  background-image: no-repeat;
+  background-repeat: no-repeat;
   background-image: cover;
   border-style: groove;
   border-width: thick
