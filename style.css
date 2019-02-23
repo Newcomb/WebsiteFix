@@ -67,7 +67,7 @@ div.day-box.PREP, div.day-box.CURRENT, div.day-box.COMPLETED{
 
 }
 .nav {
-  display: inline-block;
+  display: block;
   vertical-align: top;
 }
 
