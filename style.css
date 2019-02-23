@@ -1,5 +1,5 @@
 body{ /* Different background */
-  background-color: black;
+  background-image: url("https://newcomb.github.io/WebsiteFix/images/paperScroll.jpeg")
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
@@ -46,19 +46,16 @@ div.header > div.partners > div.person_info{
 }
 
 div.day-box.PREP, div.day-box.CURRENT, div.day-box.COMPLETED{
-  border-style: groove;
-  border-width: thick;
   text-align: center;
-  text-align-last: center;
+  background-image: url("https://newcomb.github.io/WebsiteFix/images/paperScroll.jpeg")
   font-size: 45px;
   margin-top: 50px;
   border-width: 15px;
-  color: white;
   width: 50%;
   margin-left: 25%;
-  border-radius: 50%;
   width: 800px;
   height: 800px;
+  background-image:
   }
 .day-box.Prep{
   text-align: middle;
@@ -71,19 +68,15 @@ div.day-box.PREP, div.day-box.CURRENT, div.day-box.COMPLETED{
 
 
 div.day-box.PREP{
-  border-color: green;
-  background-color: darkGreen;
+
 }
 
 div.day-box.CURRENT{
-  border-color: red;
-  background-color: darkBlue;
+
 }
 
 div.day-box.COMPLETED{
-  border-color: black;
-  opacity: 0.75;
-  background-color: #3d3a3a;
+
 }
 /* The Divs due tomorrow are completely opaque and stand out.
    The Divs that have been completed are translucent and use
