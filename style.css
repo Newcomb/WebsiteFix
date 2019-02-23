@@ -10,6 +10,7 @@ body{ /* Different background */
 
 h1{ /* Move to center */
   text-align: center;
+  color: white;
 }
 
 p{
