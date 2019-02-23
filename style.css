@@ -1,5 +1,5 @@
 body{ /* Different background */
-  background-image: url("https://newcomb.github.io/WebsiteFix/images/paperScroll.jpeg")
+  background-image: url("https://newcomb.github.io/WebsiteFix/images/wood.jpeg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
@@ -141,6 +141,7 @@ div.assignment_prompt
 .account_form input{
   margin-bottom: 20px
 }
+
 
 .person_image{
   width: 100px;
