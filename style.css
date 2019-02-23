@@ -18,8 +18,10 @@ p{
 }
 
 div.header{
-  background-color: darkGray;
+  background-image: url("https://newcomb.github.io/WebsiteFix/images/bookShelf.jpg");
   border-radius: 25px;
+  background-image: no-repeat;
+  background-image: cover;
   border-style: groove;
   border-width: thick
 }
