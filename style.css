@@ -62,10 +62,12 @@ div.day-box.PREP, div.day-box.CURRENT, div.day-box.COMPLETED{
      overflow-y: scroll;
      margin-top: 50px
    }
-  }
 .day-box.Prep{
   text-align: middle;
 
+}
+.nav{
+  vertical-align: baseline;
 }
 
 .username {
