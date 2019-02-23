@@ -67,7 +67,8 @@ div.day-box.PREP, div.day-box.CURRENT, div.day-box.COMPLETED{
 
 }
 .nav a{
-  vertical-align: baseline;
+  display: inline-block;
+  vertical-align: top;
 }
 
 .username {
