@@ -54,8 +54,8 @@ div.day-box.PREP, div.day-box.CURRENT, div.day-box.COMPLETED{
      background-image: url("https://newcomb.github.io/WebsiteFix/images/parchment.jpg");
      font-size: 25px;
      margin-left: 25%;
-     width: 600px;
-     height: 600px;
+     width: 50%;
+     height: 800px;
      background-repeat: no-repeat;
      background-position: center;
      background-size: cover;
