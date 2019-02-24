@@ -142,9 +142,8 @@ div.assignment_prompt
   flex-direction: column;
   width: 75%;
   margin-left: 12.5%;
-   border-color: green;
-  background-color: #1ca05e;
-
+  background-image: url("https://newcomb.github.io/WebsiteFix/images/accountScroll.png");
+  
 }
 
 .account_form input{
