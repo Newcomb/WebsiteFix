@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Satisfy');
 @import url('https://fonts.googleapis.com/css?family=MedievalSharp');
 body{ /* Different background */
   background-image: url("https://newcomb.github.io/WebsiteFix/images/beautyWood.jpg");
@@ -5,7 +6,7 @@ body{ /* Different background */
   background-attachment: fixed;
   background-position: center;
   background-size: 100% 100%;
-  font-family: 'MedievalSharp';
+
 }
 
 h1{ /* Move to center */
@@ -26,7 +27,8 @@ div.header{
   background-repeat: no-repeat;
   background-size: cover;
   border-style: groove;
-  border-width: thick
+  border-width: thick;
+  font-family: 'Satisfy';
 }
 
 div.header > div.partners > div.person_info{
@@ -62,7 +64,8 @@ div.day-box.PREP, div.day-box.CURRENT, div.day-box.COMPLETED{
      background-position: center;
      background-size: cover;
      overflow-y: scroll;
-     margin-top: 50px
+     margin-top: 50px;
+       font-family: 'MedievalSharp';
    }
 .day-box.Prep{
   text-align: middle;
