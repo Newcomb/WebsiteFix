@@ -144,12 +144,13 @@ div.assignment_prompt
   padding-left: 110px;
   padding-right: 100px;
   width: 640px;
-  font-size: 25px;
+  font-size: 20px;
   padding-bottom: 100px;
 }
 
 .account_form input{
-  margin-bottom: 20px
+  margin-bottom: 15px;
+  text-align: center;
 }
 
 
