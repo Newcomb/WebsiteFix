@@ -36,6 +36,10 @@ div.header > div.partners > div.person_info{
   margin-left: 0.5%;
 }
 
+span.username{
+  font-size: 30px;
+}
+
 div.nav /* Maybe different background? */
 {
   font-size: 40px;
