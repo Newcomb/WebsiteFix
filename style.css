@@ -132,18 +132,20 @@ div.assignment_prompt
 
 }
 .account_form{
-  border-radius: 25px;
-   border-style: groove;
-  border-width: thick;
   text-align: center;
-  background-color: white;
   font-size: 20px;
   display: flex;
   flex-direction: column;
   width: 75%;
   margin-left: 12.5%;
   background-image: url("https://newcomb.github.io/WebsiteFix/images/accountScroll.png");
-  
+  background-repeat: no-repeat;
+  padding-top: 150px;
+  padding-left: 110px;
+  padding-right: 100px;
+  width: 640px;
+  font-size: 25px;
+  padding-bottom: 100px;
 }
 
 .account_form input{
