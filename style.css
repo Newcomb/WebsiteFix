@@ -177,3 +177,16 @@ td, tr{
   margin-left: 70%;
   width: unset;
 }
+
+svg{
+  background-image: url("https://newcomb.github.io/WebsiteFix/images/vintage.png");
+  background-repeat: no-repeat;
+  background-size: 110%;
+  padding-top: 100px;
+  padding-right: 100px;
+  padding-left: 100px;
+  overflow: visible;
+  margin-left: 20%;
+  background-position: absolute;
+  background-position:center;
+}
