@@ -26,8 +26,6 @@ div.header{
   background-image: url("https://newcomb.github.io/WebsiteFix/images/plankHead.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
-  border-style: groove;
-  border-width: thick;
   font-family: 'Satisfy';
 }
 
