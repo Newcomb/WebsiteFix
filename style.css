@@ -15,6 +15,15 @@ h1{ /* Move to center */
   font-size: 50px;
 }
 
+body > div.person_info{
+  opacity: 0;
+}
+
+h2{
+  font-color: white;
+
+}
+
 div.partners{
   float:left;
   margin-top: 200px;
