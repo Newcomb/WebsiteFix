@@ -17,6 +17,7 @@ h1{ /* Move to center */
 
 div.partners{
   float:left;
+  position: fixed;
 }
 
 p{
