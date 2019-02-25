@@ -9,7 +9,7 @@ body{ /* Different background */
 
 }
 
-body > h3, div.assignment-title{
+body > h3, div.assignment_title{
   color: white;
   font-size: 40px;
   font-family: Satisfy;
