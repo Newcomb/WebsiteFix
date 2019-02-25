@@ -259,9 +259,9 @@ td:nth-child(1n+0):last-of-type {
 
 td, tr{
  font-size: 30px;
- background-color: blueviolet;
  border: 5px solid black;
  width: 20%;
+ color: white;
  background-image: url("https://newcomb.github.io/WebsiteFix/images/BlackGradient.png");
 }
 
