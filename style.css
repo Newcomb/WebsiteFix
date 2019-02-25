@@ -275,6 +275,10 @@ td, tr{
   width: unset;
 }
 
+.grade-table{
+  margin-left: unset;
+}
+
 svg{
   background-image: url("https://newcomb.github.io/WebsiteFix/images/vintage.png");
   background-repeat: no-repeat;
