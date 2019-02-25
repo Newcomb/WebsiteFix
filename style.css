@@ -23,7 +23,7 @@ p{
 }
 
 div.header{
-  background-image: url("https://newcomb.github.io/WebsiteFix/images/plankHead.jpeg");
+  color: white;
   background-repeat: no-repeat;
   background-size: cover;
   font-family: 'Satisfy';
@@ -76,7 +76,7 @@ div.day-box.PREP, div.day-box.CURRENT, div.day-box.COMPLETED{
 .nav a{
   display: block;
   vertical-align: top;
-  color: black;
+  color: white;
 }
 
 .username {
