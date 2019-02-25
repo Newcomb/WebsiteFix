@@ -9,18 +9,18 @@ body{ /* Different background */
 
 }
 
-h2{
+body > h2, body > h3, body > a{
   color: white;
   font-size: 40px;
   font-family: Satisfy;
   margin-left: 36%;
 }
 
-
-h1, div.assignment-title{ /* Move to center */
+h1{ /* Move to center */
   text-align: center;
   color: white;
   font-size: 50px;
+  font-family: MedievalSharp;
 }
 
 body > div.person_info{
