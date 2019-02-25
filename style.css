@@ -17,7 +17,7 @@ h2{
 }
 
 
-h1{ /* Move to center */
+h1, div.assignment-title{ /* Move to center */
   text-align: center;
   color: white;
   font-size: 50px;
