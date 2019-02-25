@@ -15,17 +15,12 @@ h1{ /* Move to center */
   font-size: 50px;
 }
 
-
-.partners a{
-  margin-left: 24%;
-  font-size: 24px;
-  color: #5dacd3;
-}
-
 div.partners{
   float:left;
   margin-top: 200px;
   position: fixed;
+  font-size: 24px;
+  color: #bbc9bf;
 }
 
 p{
@@ -57,6 +52,7 @@ div.nav /* Maybe different background? */
   margin-left: 88%;
   vertical-align: baseline;
   position: fixed;
+  color: #ededed;
 }
  /* Make the current and future task glow? */
 div.person_info{
@@ -64,6 +60,13 @@ div.person_info{
   width: 200px;
   height: 200px;
   position: fixed;
+}
+
+.partners a{
+  margin-left: 24%;
+  font-size: 24px;
+  color: #5dacd3;
+  vertical-align: baseline;
 }
 
 div.header > div.partners > div.person_info{
