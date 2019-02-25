@@ -131,6 +131,12 @@ div.day-box.PREP, div.day-box.CURRENT, div.day-box.COMPLETED{
      margin-top: 50px;
     font-family: 'MedievalSharp';
    }
+
+div.prep-box div.assignment-title, div.lab-box div.assignment-title{
+  color:unset;
+  font-family:MedievalSharp;
+}
+
 .day-box.Prep{
   text-align: middle;
 
@@ -278,6 +284,8 @@ td, tr{
 .grade-table{
   margin-left: unset;
 }
+
+.prep-box
 
 svg{
   background-image: url("https://newcomb.github.io/WebsiteFix/images/vintage.png");
