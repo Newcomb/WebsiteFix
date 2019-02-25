@@ -14,6 +14,8 @@ body > h2, body > h3, body > a{
   font-size: 40px;
   font-family: Satisfy;
   margin-left: 36%;
+  margin-top: 20px;
+  text-align: center;
 }
 
 h1{ /* Move to center */
