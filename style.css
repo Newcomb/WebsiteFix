@@ -170,13 +170,10 @@ div.assignment_prompt
   text-align: center;
   font-size: 45px;
   margin-top: 50px;
-  border-width: 15px;
-  color: white;
+  color: black;
   width: 75%;
   margin-left: 12.5%;
-  border-radius: 25px;
-  border-color: green;
-  background-color: #1ca05e;
+  background-image: url("https://newcomb.github.io/WebsiteFix/images/WoodParch.png");
 }
 
 .notes{
@@ -235,7 +232,6 @@ tbody{
 }
 
 table{
-  margin-left: 12.5%;
   background-image: url("https://newcomb.github.io/WebsiteFix/images/Leather.jpg");
 }
 
