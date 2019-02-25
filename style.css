@@ -236,6 +236,7 @@ tbody{
 
 body > table{
   margin-left: 12.5%;
+  background-image: url("https://newcomb.github.io/WebsiteFix/images/Leather.jpg");
 }
 
 .login{
@@ -262,7 +263,6 @@ td, tr{
  border: 5px solid black;
  width: 20%;
  color: white;
- background-image: url("https://newcomb.github.io/WebsiteFix/images/Leather.jpg");
 }
 
 
