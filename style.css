@@ -169,7 +169,8 @@ div.assignment_prompt, div.prompt
   font-size: 45px;
   margin-top: 50px;
   color: black;
-  width: 75%;
+  width: 1000px;
+  height: 400px;
   margin-left: 12.5%;
   background-image: url("https://newcomb.github.io/WebsiteFix/images/WoodParch.png");
   background-repeat: no-repeat;
@@ -177,6 +178,7 @@ div.assignment_prompt, div.prompt
   background-size: cover;
   overflow-y: scroll;
 }
+
 
 .notes{
 
