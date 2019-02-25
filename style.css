@@ -165,8 +165,6 @@ div.day-box.COMPLETED{
 
 div.assignment_prompt
 {
-  border-style: groove;
-  border-width: thick;
   text-align: center;
   font-size: 45px;
   margin-top: 50px;
@@ -174,6 +172,7 @@ div.assignment_prompt
   width: 75%;
   margin-left: 12.5%;
   background-image: url("https://newcomb.github.io/WebsiteFix/images/WoodParch.png");
+  background-repeat: no-repeat;
 }
 
 .notes{
