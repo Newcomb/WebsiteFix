@@ -10,7 +10,7 @@ body{ /* Different background */
 }
 
 h1{ /* Move to center */
-  text-align: center;
+  margin-left: 42%;
   color: white;
   font-size: 50px;
 }
