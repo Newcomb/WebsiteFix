@@ -158,7 +158,7 @@ div.assignment_prompt
   margin-bottom: 30px;
   text-align: center;
   background: transparent;
-  border-top: black;
+  border-top: solid 5px black;
 
 
 }
