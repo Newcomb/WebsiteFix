@@ -163,7 +163,7 @@ div.day-box.COMPLETED{
    texture with them. Sort of nature-like.
 */
 
-div.assignment_prompt
+div.assignment_prompt, div.prompt
 {
   text-align: center;
   font-size: 45px;
