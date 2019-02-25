@@ -182,7 +182,7 @@ div.assignment_prompt, div.prompt
 }
 
 .view_text, p{
-  background-color: white;
+  background-color: #edaa63;
   padding: 50px;
   text-align: center;
   font-family: MedievalSharp;
