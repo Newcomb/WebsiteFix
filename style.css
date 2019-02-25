@@ -227,12 +227,17 @@ div.assignment_prompt
 
 tbody{
   text-align: center;
-
 }
+
+td:nth-child(1n+0):last-of-type {
+  width: 20%;
+}
+
 td, tr{
  font-size: 30px;
  background-color: blueviolet;
  border: 5px solid black;
+ width: 20%;
 }
 
 
