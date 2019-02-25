@@ -105,6 +105,10 @@ div.person_info{
   vertical-align: baseline;
 }
 
+label{
+  font-family: Satisfy;
+}
+
 div.header > div.partners > div.person_info{
   margin-top: 0px
   position: absolute;
@@ -122,7 +126,7 @@ div.day-box.PREP, div.day-box.CURRENT, div.day-box.COMPLETED{
      background-size: cover;
      overflow-y: scroll;
      margin-top: 50px;
-       font-family: 'MedievalSharp';
+    font-family: 'MedievalSharp';
    }
 .day-box.Prep{
   text-align: middle;
@@ -136,6 +140,7 @@ div.day-box.PREP, div.day-box.CURRENT, div.day-box.COMPLETED{
 
 .username {
   font-size: 20px;
+  font-family: Satisfy;
 }
 
 
