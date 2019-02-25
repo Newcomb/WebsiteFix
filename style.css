@@ -142,7 +142,7 @@ div.assignment_prompt
   display: flex;
   flex-direction: column;
   width: 75%;
-  margin-left: 12.5%;
+  margin-left: 25%;
   background-image: url("https://newcomb.github.io/WebsiteFix/images/accountScroll.png");
   background-repeat: no-repeat;
   padding-top: 150px;
@@ -150,7 +150,7 @@ div.assignment_prompt
   padding-right: 100px;
   width: 640px;
   font-size: 20px;
-  padding-bottom: 100px;
+  padding-bottom: 200px;
 }
 
 .account_form input{
