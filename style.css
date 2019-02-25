@@ -142,13 +142,13 @@ div.assignment_prompt
   display: flex;
   flex-direction: column;
   width: 75%;
-  margin-left: 25%;
+  margin-left: 12.5%;
   background-image: url("https://newcomb.github.io/WebsiteFix/images/accountScroll.png");
   background-repeat: no-repeat;
   padding-top: 150px;
   padding-left: 110px;
   padding-right: 100px;
-  width: 640px;
+  width: 960px;
   font-size: 20px;
   padding-bottom: 200px;
 }
