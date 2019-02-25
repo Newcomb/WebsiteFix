@@ -181,10 +181,12 @@ div.assignment_prompt, div.prompt
   overflow-y: scroll;
 }
 
-.view_text{
+.view_text, p{
   background-color: white;
   padding: 50px;
   text-align: center;
+  font-family: MedievalSharp;
+  font-size: 25px;
 }
 
 .account_form{
@@ -193,7 +195,7 @@ div.assignment_prompt, div.prompt
   display: flex;
   flex-direction: column;
   width: 900px;
-  margin-left: 0%;
+  margin-left: 10%;
   background-image: url("https://newcomb.github.io/WebsiteFix/images/accountScroll.png");
   background-repeat: no-repeat;
   background-size: cover;
