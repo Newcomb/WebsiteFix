@@ -43,12 +43,14 @@ div.nav /* Maybe different background? */
   font-size: 40px;
   margin-left: 88%;
   vertical-align: baseline;
+  position: fixed;
 }
  /* Make the current and future task glow? */
 div.person_info{
   float:left;
   width: 200px;
   height: 200px;
+  position: fixed;
 }
 
 div.header > div.partners > div.person_info{
