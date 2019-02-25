@@ -229,6 +229,10 @@ tbody{
   text-align: center;
 }
 
+body > table{
+  margin-left: 12.5%;
+}
+
 td:nth-child(1n+0):last-of-type {
   width: 20%;
 }
