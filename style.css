@@ -15,6 +15,10 @@ h1{ /* Move to center */
   font-size: 50px;
 }
 
+div.partners{
+  float:left;
+}
+
 p{
   text-transform: full-width;
   color: white;
@@ -122,7 +126,6 @@ div.assignment_prompt
 }
 
 .notes{
-
 
 }
 
