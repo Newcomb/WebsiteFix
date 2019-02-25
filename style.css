@@ -227,6 +227,10 @@ tbody{
   text-align: center;
 }
 
+body > table{
+  margin-left: 15%;
+}
+
 table{
   background-image: url("https://newcomb.github.io/WebsiteFix/images/Leather.jpg");
 }
