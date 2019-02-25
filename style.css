@@ -149,7 +149,6 @@ div.assignment_prompt
   padding-top: 250px;
   padding-left: 110px;
   padding-right: 100px;
-  width: 960px;
   font-size: 20px;
   padding-bottom: 300px;
 }
@@ -158,6 +157,7 @@ div.assignment_prompt
   font-size: 20px;
   margin-bottom: 30px;
   text-align: center;
+  background-color: orange;
 }
 
 
