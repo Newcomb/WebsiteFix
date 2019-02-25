@@ -146,12 +146,12 @@ div.assignment_prompt
   background-image: url("https://newcomb.github.io/WebsiteFix/images/accountScroll.png");
   background-repeat: no-repeat;
   background-size: cover;
-  padding-top: 200px;
+  padding-top: 250px;
   padding-left: 110px;
   padding-right: 100px;
   width: 960px;
   font-size: 20px;
-  padding-bottom: 250px;
+  padding-bottom: 300px;
 }
 
 .account_form input{
