@@ -173,8 +173,7 @@ div.assignment_prompt
   margin-left: 12.5%;
   background-image: url("https://newcomb.github.io/WebsiteFix/images/WoodParch.png");
   background-repeat: no-repeat;
-  padding: 10px;
-  padding-top: 25px;
+  padding: 50px;
   background-size: cover;
   overflow-y: scroll;
 }
