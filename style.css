@@ -27,7 +27,6 @@ h2{
 div.partners{
   float:left;
   margin-top: 200px;
-  position: fixed;
   font-size: 24px;
   color: #bbc9bf;
 }
@@ -68,7 +67,6 @@ div.person_info{
   float:left;
   width: 200px;
   height: 200px;
-  position: fixed;
 }
 
 .partners a{
