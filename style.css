@@ -201,8 +201,8 @@ div.assignment_prompt
   font-size: 25px;
   display: flex;
   flex-direction: column;
-  width: 940px;
-  margin-left: 10%;
+  width: 900px;
+  margin-left: 0%;
   background-image: url("https://newcomb.github.io/WebsiteFix/images/accountScroll.png");
   background-repeat: no-repeat;
   background-size: cover;
