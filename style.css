@@ -233,6 +233,21 @@ body > table{
   margin-left: 12.5%;
 }
 
+.login{
+  position: absolute;
+  color: blue;
+  margin-top: 200px;
+  float:left;
+  margin-right: 100%;
+  font-size: 23px;
+  color: #f7f7f7;
+}
+
+form > div > input{
+  position: absolute;
+  margin-top: 500px;
+}
+
 td:nth-child(1n+0):last-of-type {
   width: 20%;
 }
