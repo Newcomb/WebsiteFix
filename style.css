@@ -9,18 +9,20 @@ body{ /* Different background */
 
 }
 
+h2{
+  color: white;
+  font-size: 40px;
+  font-family: Satisfy;
+}
+
 h1{ /* Move to center */
-  margin-left: 42%;
+  text-align: center;
   color: white;
   font-size: 50px;
 }
 
 body > div.person_info{
   opacity: 0;
-}
-
-h2{
-  font-color: white;
 }
 
 div.partners{
