@@ -15,27 +15,28 @@ h1{ /* Move to center */
   font-size: 50px;
 }
 
-body > h2{
-  color: white;
-  text-align: center;
-  font-family: Satisfy;
-  font-size: 32px;
-}
-
 body > div.person_info{
   opacity: 0;
 }
 
 h2{
   font-color: white;
-
 }
 
 div.partners{
   float:left;
-  margin-top: 200px;
-  font-size: 24px;
-  color: #bbc9bf;
+  margin-right: 100%;
+  font-size: 23px;
+  color: #f7f7f7;
+}
+
+div.partners span{
+  font-size: 23px;
+}
+
+div.partners img{
+  width: 75px;
+  height: 75px;
 }
 
 p{
