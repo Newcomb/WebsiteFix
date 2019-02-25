@@ -61,13 +61,6 @@ div.partners img{
   height: 75px;
 }
 
-p{
-  text-transform: full-width;
-  color: white;
-  border-width: medium;
-  border-color: brown;
-}
-
 div.header{
   color: white;
   background-repeat: no-repeat;
@@ -181,7 +174,7 @@ div.assignment_prompt, div.prompt
   overflow-y: scroll;
 }
 
-.view_text, p{
+.view_text, body > p{
   background-color: #edaa63;
   padding: 50px;
   text-align: center;
