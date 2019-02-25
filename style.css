@@ -179,24 +179,12 @@ div.assignment_prompt, div.prompt
   overflow-y: scroll;
 }
 
-
-.notes{
-
+.view_text{
+  background-color: white;
+  padding: 50px;
+  text-align: center;
 }
 
-.prep-box{
-
-
-}
-
-.reading-box{
-
-}
-
-.lab-box{
-
-
-}
 .account_form{
   text-align: center;
   font-size: 25px;
