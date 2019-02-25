@@ -39,8 +39,8 @@ body > div.person_info a{
   vertical-align: baseline;
 }
 
-body > div.partners span{
-
+body > div.person_info span{
+  font-size: 23px;
 }
 
 div.partners{
