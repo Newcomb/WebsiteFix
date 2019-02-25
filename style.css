@@ -15,6 +15,13 @@ h1{ /* Move to center */
   font-size: 50px;
 }
 
+body > h2{
+  color: white;
+  text-align: center;
+  font-family: Satisfy;
+  font-size: 32px;
+}
+
 body > div.person_info{
   opacity: 0;
 }
