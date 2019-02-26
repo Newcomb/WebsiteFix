@@ -186,6 +186,7 @@ div.assignment_prompt, div.prompt
   padding: 50px;
   background-size: cover;
   overflow-y: scroll;
+    font-family: MedievalSharp;
 }
 
 .view_text, body > form.assignment_form > p:last-of-type{
